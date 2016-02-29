@@ -1,2 +1,3 @@
 # Remembro
-![alt text](https://github.com/bpkennedy/Remembro/Remembro.jpg "Wireframes")
+
+![](https://github.com/bpkennedy/Remembro/remembro/jpeg?raw=true)
