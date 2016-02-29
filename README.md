@@ -1,3 +1,5 @@
 # Remembro
 
-![](https://github.com/bpkennedy/Remembro/remembro/jpeg?raw=true)
+##Check the Issues list for our features.
+
+![](https://github.com/bpkennedy/Remembro/blob/master/remembro.jpeg?raw=true)
